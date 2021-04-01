@@ -5,3 +5,7 @@
 ## Webpack
 
 - consider having separate entries (one for app, one for start, etc...)
+
+## Bugs
+
+- fix campbell module resolution (so we know if we use the one shipped this module or the one installed by the user)
