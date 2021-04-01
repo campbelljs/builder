@@ -35,6 +35,6 @@
   "homepage": "https://github.com/campbelljs/builder#readme",
   "description": "",
   "devDependencies": {
-    "eslint": "^7.21.0"
+    "eslint": "^7.23.0"
   }
 }
