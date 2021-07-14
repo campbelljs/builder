@@ -8,4 +8,4 @@
 
 ## Bugs
 
-- fix campbell module resolution (so we know if we use the one shipped this module or the one installed by the user)
+- fix campbell module resolution (so we know if we use the one shipped with this module or the one installed by the user)
